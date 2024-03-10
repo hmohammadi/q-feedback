@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@betahuhn/feedback-js": "^2.1.25",
+    "jquery-emoji-picker": "^0.2.2"
+  },
+  "scripts": {},
+  "devDependencies": {
+  }
+}
