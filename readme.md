@@ -36,7 +36,7 @@ Give a ⭐️ if this project helped you!
 
 ## 🤝 Credits
 
-I created this WordPress plugin baseds on [Maximilian](https://github.com/BetaHuhn)'s [feedback-js](https://github.com/BetaHuhn/feedback-js) project. 
+I created this WordPress plugin based on [Maximilian](https://github.com/BetaHuhn)'s [feedback-js](https://github.com/BetaHuhn/feedback-js) project. 
 
 ## 📝 License
 
