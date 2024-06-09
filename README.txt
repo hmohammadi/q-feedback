@@ -3,7 +3,7 @@ Contributors: hesammohammadi
 Tags: feedback, feedback modal, feedback plugin, survey
 Requires at least: 4.6
 Tested up to: 6.4.3
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: MIT
 License URI: https://github.com/hmohammadi/q-feedback?tab=MIT-1-ov-file
 
