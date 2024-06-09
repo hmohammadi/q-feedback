@@ -16,11 +16,11 @@ Welcome to QFeedback 👋
 > * Categorized feebacks by type
 > * Archive feedbacks or reply by Email
 
-### 🏠 [Screenshots]
-<img width="200" alt="2" src="https://github.com/hmohammadi/q-feedback/assets/15977418/13c18e89-331c-4145-8c6c-08ddf653ecdb">
-<img width="200" alt="3" src="https://github.com/hmohammadi/q-feedback/assets/15977418/7ec14424-e3bc-49e0-9af6-bdeb453cbd72">
-<img width="200" alt="4" src="https://github.com/hmohammadi/q-feedback/assets/15977418/1bcd4e7e-ad14-4994-a763-56a5cea17316">
-<img width="200" alt="5" src="https://github.com/hmohammadi/q-feedback/assets/15977418/c0bc6646-afd6-4958-ad78-e5497847088d">
+### 🏠 Screenshots
+<img width="200" alt="2" target="_blank" src="https://github.com/hmohammadi/q-feedback/assets/15977418/13c18e89-331c-4145-8c6c-08ddf653ecdb">
+<img width="200" alt="3" target="_blank" src="https://github.com/hmohammadi/q-feedback/assets/15977418/7ec14424-e3bc-49e0-9af6-bdeb453cbd72">
+<img width="200" alt="4" target="_blank" src="https://github.com/hmohammadi/q-feedback/assets/15977418/1bcd4e7e-ad14-4994-a763-56a5cea17316">
+<img width="200" alt="5" target="_blank" src="https://github.com/hmohammadi/q-feedback/assets/15977418/c0bc6646-afd6-4958-ad78-e5497847088d">
 
 ## Install
 
