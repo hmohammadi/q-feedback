@@ -1,4 +1,9 @@
-<h1 align="center">Welcome to QFeedback 👋</h1>
+<h1 align="center">
+<br>
+<img style="align:center" width="100" alt="q-feedback" src="https://github.com/hmohammadi/q-feedback/assets/15977418/965f76cf-a5c3-43c8-98f3-f082be775ed4">
+<br>
+Welcome to QFeedback 👋 
+</h1>
 <p>
   	<img alt="GitHub License" src="https://img.shields.io/github/license/hmohammadi/q-feedback">
 	<img alt="WordPress Plugin Version" src="https://img.shields.io/wordpress/plugin/v/q-feedback">
@@ -11,7 +16,11 @@
 > * Categorized feebacks by type
 > * Archive feedbacks or reply by Email
 
-### 🏠 [Homepage](https://github.com/hmohammadi/q-feedback)
+### 🏠 [Screenshots]
+<img width="200" alt="2" src="https://github.com/hmohammadi/q-feedback/assets/15977418/13c18e89-331c-4145-8c6c-08ddf653ecdb">
+<img width="200" alt="3" src="https://github.com/hmohammadi/q-feedback/assets/15977418/7ec14424-e3bc-49e0-9af6-bdeb453cbd72">
+<img width="200" alt="4" src="https://github.com/hmohammadi/q-feedback/assets/15977418/1bcd4e7e-ad14-4994-a763-56a5cea17316">
+<img width="200" alt="5" src="https://github.com/hmohammadi/q-feedback/assets/15977418/c0bc6646-afd6-4958-ad78-e5497847088d">
 
 ## Install
 

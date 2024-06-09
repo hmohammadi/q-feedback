@@ -68,7 +68,6 @@ import Feedback, { IS_BROWSER } from '../../node_modules/@betahuhn/feedback-js/s
 	})
 
 	window.addEventListener('feedback-submit', (event) => {
-		alert()
 		$.ajax({
 			type: 'post',
 			url: ajax_object.ajax_url,
