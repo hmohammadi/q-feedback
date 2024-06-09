@@ -16,7 +16,7 @@
  * Plugin Name:       QFeedback
  * Plugin URI:        https://github.com/hmohammadi/q-feedback
  * Description:       Simple modern feedback modal for WordPress.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Hesam Mohammadi
  * Author URI:        https://github.com/hmohammadi
  * License:           MIT
